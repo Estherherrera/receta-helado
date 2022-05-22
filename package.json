@@ -1,0 +1,15 @@
+{
+    "name": "receta-sass",
+    "version": "1.0.0",
+    "description": "recetasass",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass-watch": "sass --watch src/sass:public/css"
+    },
+    "author": "Esther Herrera",
+    "license": "ISC",
+    "devDependencies": {
+        "sass": "^1.51.0"
+    }
+}
